@@ -1,4 +1,4 @@
-# Project Title
+# AutoRFP project for Sales Teams
 
 Final project for the Building AI course.
 
